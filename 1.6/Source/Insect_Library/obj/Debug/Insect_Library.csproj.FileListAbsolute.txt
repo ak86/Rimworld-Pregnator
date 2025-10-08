@@ -1,9 +1,0 @@
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rimworld-Pregnator-main\1.6\Source\Insect_Library\obj\Debug\Insect_Library.csproj.AssemblyReference.cache
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rimworld-Pregnator-main\1.6\Source\Insect_Library\obj\Debug\Insect_Library.csproj.CoreCompileInputs.cache
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rimworld-Pregnator-main\1.6\Source\Assemblies\Insect_Library.dll
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rimworld-Pregnator-main\1.6\Source\Assemblies\Insect_Library.pdb
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rimworld-Pregnator-main\1.6\Source\Insect_Library\obj\Debug\Insect_L.E3F7BDE6.Up2Date
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rimworld-Pregnator-main\1.6\Source\Insect_Library\obj\Debug\Insect_Library.dll
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rimworld-Pregnator-main\1.6\Source\Insect_Library\obj\Debug\Insect_Library.pdb
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rimworld-Pregnator-main\1.6\Assemblies\Insect_Library.dll
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rimworld-Pregnator-main\1.6\Assemblies\Insect_Library.pdb
